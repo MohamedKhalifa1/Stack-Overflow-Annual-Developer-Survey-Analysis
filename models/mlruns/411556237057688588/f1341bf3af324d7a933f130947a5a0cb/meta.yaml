@@ -1,0 +1,15 @@
+artifact_uri: /content/Stack-Overflow-Annual-Developer-Survey-Analysis/models/mlruns/411556237057688588/f1341bf3af324d7a933f130947a5a0cb/artifacts
+end_time: 1719393352437
+entry_point_name: ''
+experiment_id: '411556237057688588'
+lifecycle_stage: active
+run_id: f1341bf3af324d7a933f130947a5a0cb
+run_name: 'Baseline model: Logistic Regression '
+run_uuid: f1341bf3af324d7a933f130947a5a0cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719393352407
+status: 3
+tags: []
+user_id: root
